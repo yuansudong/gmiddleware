@@ -1,4 +1,4 @@
-module gitub.com/yuansudong/gmiddleware
+module github.com/yuansudong/gmiddleware
 
 go 1.17
 
